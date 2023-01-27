@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: black;
+}
+
+.width{
+    width: 500px;
+    height: auto;
+}
+
+.color{
+    color: #ff6014;
+}
+
+.color-bg{
+    background-color: #ff6014;
+}
+
+.color-border{
+    color: #ff6014;
+}
+
+.black{
+    background-color: black;
+}
+
+nav a:hover{
+    text-transform: uppercase;
+    color: #ffc107 !important;
+    text-decoration: underline;
+}
+
+a:hover{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.anchor{
+    text-decoration: none;
+    color: white;
+}
+
+.line{
+    border-top: 1px solid white;
+}
