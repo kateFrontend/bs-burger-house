@@ -46,3 +46,21 @@ a:hover{
 .line{
     border-top: 1px solid white;
 }
+
+#myVideo{
+    width: 100%;
+}
+
+.fourth {
+    border-color: #f1c40f;
+    color: #fff;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+  }
+  .fourth:hover {
+    background-position: 0;
+  }
