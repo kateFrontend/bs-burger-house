@@ -2,7 +2,7 @@
 
 ![cover](./assets/30.jpg)
 
-View Demo <a href="https://burger-house-bs.netlify.app/" target="_blank">Boorger House</a> 
+View Demo <a href="https://burger-house-bs.netlify.app/" target="_blank">Burger House</a> 
 
 ## 🦉 Main information
 
